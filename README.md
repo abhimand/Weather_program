@@ -5,6 +5,8 @@ April 2020 - Due to quarantine, I am finally fed up with playing video games and
 ## Built With
 
 PyCharm
+Dark Sky API
+Google Geocoding API
 
 ## Authors
 
